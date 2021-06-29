@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: Paly Math Club
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Paly Math Club is a student-led organization and club dedicated to furthering mathematics education outside of the classroom in our local community. We hold weekly meetings where we cover advanced topics in math, organize guest lectures from established mathematicians, and lead a competitive math team at national tournaments.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## 2021-2022 Officers
